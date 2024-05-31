@@ -1,0 +1,59 @@
+body {
+    font-family: cursive;
+
+}
+
+.link-header { 
+    background-color: #7608AA;
+    text-decoration: none;
+    color:white;
+    padding: 10px;
+    border-radius: 25px;
+    margin-top: 5px;
+}
+
+main h1{
+    background-color: #8C04A8	;
+    color:white;
+    padding:5px;
+}
+
+li {
+    background-color: #6E227E	;
+    padding:5px;
+    margin-bottom: 5px;
+    border-radius: 25px;
+    padding: 10px;
+    color:white;
+}
+
+main p {
+    color: white;
+    background-color: purple;
+    text-decoration:none;
+    padding: 10px;
+    border-radius: 25px;
+    margin-top: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+
+nav a {
+    background-color: #950fb3;
+    color:white;
+    padding: 5px;
+    margin-left:150px;
+    border-radius:10px;
+}
+
+.comp {
+    border:10px solid lightskyblue;
+    border-collapse: collapse;
+    border-radius: 10px;
+    background-color:lightskyblue;
+}
+
